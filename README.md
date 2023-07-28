@@ -13,4 +13,8 @@ Modular Implementation of the **EUSIPCO 2023 paper "[Harnessing the Power of Exp
 - **wl.py:** Standalone implementation of weighted loss (wl) based incremental training (fixed for six IL sessions)
 
 **Requirements**
--
+- tensorflow
+- numpy
+- scikit-image
+- scikit-learn
+- 
