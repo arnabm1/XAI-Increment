@@ -1,7 +1,6 @@
 Modular Implementation of the **EUSIPCO 2023 paper "Harnessing the Power of Explanations for Incremental Training: A LIME-Based Approach"** https://arxiv.org/abs/2211.01413
 
 **Structure of the Code**
-
 - **IL_train.py:** 	Main file to perform training with incremental (IL) sessions and ewc (#sessions are user-defined)
 - **data_prepare.ipynb:** Creates numpy arrays based on the user defined splits for the Google Speech Commands dataset
 - **ewc.py:** Standalone implementation of weighted loss (wl) and ewc based incremental training (fixed for six IL sessions)
