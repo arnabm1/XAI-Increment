@@ -17,4 +17,4 @@ Modular Implementation of the **EUSIPCO 2023 paper "[Harnessing the Power of Exp
 - numpy
 - scikit-image
 - scikit-learn
-- 
+- pathlib
