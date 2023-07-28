@@ -1,4 +1,4 @@
-Modular Implementation of the **EUSIPCO 2023 paper "Harnessing the Power of Explanations for Incremental Training: A LIME-Based Approach"** https://arxiv.org/abs/2211.01413
+Modular Implementation of the **EUSIPCO 2023 paper "[Harnessing the Power of Explanations for Incremental Training: A LIME-Based Approach](https://arxiv.org/abs/2211.01413)"** 
 
 **Structure of the Code**
 - **IL_train.py:** 	Main file to perform training with incremental (IL) sessions and ewc (#sessions are user-defined)
