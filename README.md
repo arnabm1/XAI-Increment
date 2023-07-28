@@ -20,3 +20,7 @@ Modular Implementation of the **EUSIPCO 2023 paper "[Harnessing the Power of Exp
 - pathlib
 - matplotlib
 - tqdm
+  
+Clone the repository and install the requirements in a
+[**Python>=3.7.0**](https://www.python.org/) or higher environment, including
+**Tensorflow>=2.7 or higher**.
